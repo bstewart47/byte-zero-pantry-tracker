@@ -1,4 +1,4 @@
-
+For more information, please watch the presentation video linked in the project description. 
 ---
 
 ## README #2: Byte-Zero - Agentic AI Pantry Tracker
